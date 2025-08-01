@@ -1,4 +1,4 @@
-#include <stdio.h> 
+#include <stdio.h>
 // #include(a preprocessor directive) include the declaration for standard I/O functions, macros, variables enabling their use within a program;
 
 int main(){
